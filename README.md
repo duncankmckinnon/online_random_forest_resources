@@ -1,5 +1,7 @@
 # Online Random Forest Resources:
 
+## Mondrian Forest
+
 [mondrian kernel research paper](http://arxiv.org/abs/1606.05241)
 
 [mondrian kernel slides](http://matejbalog.eu/research/mondrian_kernel_slides.pdf)
@@ -20,9 +22,16 @@
 
 [sci-kit learn compatible implementation of mondrian rf](https://scikit-garden.github.io/)
 
-
+## Incremental Distributed Random Forest
 
 [incremental rf (mit masters profject)](https://dspace.mit.edu/handle/1721.1/106105)
 
-
 [spark (scala) implementation of incremental rf (masters project)](https://github.com/ktsiegel/incremental-random-forest)
+
+## Feature Importances
+
+[Permutation Importance Measures (ELI5)](https://eli5.readthedocs.io/en/latest/blackbox/permutation_importance.html)
+
+[ELI5 Feature Importances](https://github.com/TeamHG-Memex/eli5/blob/master/eli5/_feature_importances.py)
+
+[Using Default Feature Importances](https://explained.ai/rf-importance/)
